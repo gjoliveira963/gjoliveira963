@@ -11,6 +11,14 @@ My professional journey is marked by the creation and maintenance of efficient a
   - Estácio de Sá University
   - In progress
 
+- **Technical/Professional Course in Computer Science** (2019 - 2022)
+  - Technological Axis: Information and Communication
+  - Brasília Technical School (ETB), Brazil
+
+- **JavaScript and TypeScript Course: From Basic to Advanced JS/TS** (2020 - 2021)
+  - Duration: 146 hours
+  - Udemy (UDMY), Brazil
+
 ## 🛠️ Technical Skills
 - **Programming Languages:** HTML, CSS, JavaScript
 - **Tools & Technologies:** Node.js, SEO, and Google Ads
