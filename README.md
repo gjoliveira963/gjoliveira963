@@ -4,7 +4,7 @@
 I'm a passionate web developer currently making a difference at **ECOINF**. 🌐 I'm pursuing a degree in Computer Science at **Estácio de Sá University**, where I'm always looking to improve my skills and knowledge in the field. 💻
 
 ## 💼 Professional Experience
-My professional journey is marked by the creation and maintenance of efficient and responsive websites, using the latest web development technologies and practices. I'm committed to delivering projects that not only meet but exceed the end users' expectations.
+Rising professional in the area of ​​Web Development, currently enriching my skills at ECOINF - Web Development and Digital Certificate in Brasília, DF. With a robust technical background and an ongoing degree in Computer Science from Centro Universitário Estácio Brasília, I have dedicated myself to my career, innovation and technical excellence in the field of information technology.
 
 ## 🎓 Education
 - **Bachelor's Degree in Computer Science**
