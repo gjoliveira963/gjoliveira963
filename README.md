@@ -34,6 +34,7 @@ Rising professional in the area of ​​Web Development, currently enriching my
 - **LinkedIn:** [Your Name on LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/)
 -->
 - **Email:** gjoliveira@gjoliveira.dev
+- **LinkedIn** www.linkedin.com/in/gjoliveira963
 
 ## 🌟 Let's Connect!
 Feel free to get in touch if you're interested in discussing web technologies, collaborations, or just to share ideas. I'm always open to new opportunities and challenges!
