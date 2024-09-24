@@ -1,45 +1,44 @@
-# 👋 Hello, I'm Gabriel José Oliveira!
+# 👋 Hi, I'm Gabriel José Oliveira!
 
-## 🚀 About Me
-I'm a passionate web developer currently making a difference at [**ECOINF**](https://ecoinf.com.br/) 🌐. 
-I'm pursuing a degree in Computer Science at [**Estácio de Sá University**](https://estacio.br/), 
-where I'm always looking to improve my skills and knowledge in the field 💻. 
+## 🚀 About me
+I'm a passionate web developer, currently making a difference at [**ECOINF**](https://ecoinf.com.br/) 🌐.
+I have a degree in Computer Science from [**Estácio de Sá University**](https://estacio.br/),
+where I'm always seeking to improve my skills and knowledge in the area 💻.
 
-## 💼 Professional Experience
-Rising professional in the area of ​​Web Development, currently enriching my skills at ECOINF - Web Development and Digital Certificate in Brasília, DF. With a robust technical background and an ongoing degree in Computer Science from Centro Universitário Estácio Brasília, I have dedicated myself to my career, innovation and technical excellence in the field of information technology.
+## 💼 Professional experience
+A rising professional in the area of ​​Web Development, currently enriching my skills at ECOINF - Web Development and Digital Certification in Brasília, DF. With a solid technical background and a degree in Computer Science from Estácio Brasília University Center, I have dedicated myself to my career, innovation and technical excellence in the area of ​​information technology.
 
 ## 🎓 Education
-- **Bachelor's Degree in Computer Science**
-  - Estácio de Sá University
-  - In progress
+- **Bachelor's Degree in Computer Science** (2019 - 2024)
+- Estácio de Sá University
 
 - **Technical/Professional Course in Computer Science** (2019 - 2022)
-  - Technological Axis: Information and Communication
-  - Brasília Technical School (ETB), Brazil
+- Technological Axis: Information and Communication
+- Technical School of Brasília (ETB), Brazil
 
 - **JavaScript and TypeScript Course: From Basic to Advanced JS/TS** (2020 - 2021)
-  - Duration: 146 hours
-  - Udemy (UDMY), Brazil
+- Duration: 146 hours
+- Udemy (UDMY), Brazil
 
 ## 🛠️ Technical Skills
 - **Programming Languages:** HTML, CSS, JavaScript
-- **Tools & Technologies:** Node.js, SEO, and Google Ads
+- **Tools and Technologies:** Node.js, SEO and Google Ads
 - **Web Development:** Responsive Websites, Web Performance, Accessibility
 
 ## 🌱 I'm Learning
-- Deepening my knowledge in **Astro Js** and **Nest Js**
+- Deepening my knowledge in **Next Js** and **Nest Js**
 - Exploring **Artificial Intelligence** for web applications
 
-## 📫 How to Contact Me
+## 📫 How to contact me
 <!--
 **GitHub:** [@yourGitHubUsername](https://github.com/yourGitHubUsername)
-- **LinkedIn:** [Your Name on LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/)
+- **LinkedIn:** [Your LinkedIn Name](https://www.linkedin.com/in/yourLinkedInProfile/)
 -->
 - **Email:** gjoliveira@gjoliveira.dev
 - **LinkedIn** www.linkedin.com/in/gjoliveira963
 
-## 🌟 Let's Connect!
-Feel free to get in touch if you're interested in discussing web technologies, collaborations, or just to share ideas. I'm always open to new opportunities and challenges!
+## 🌟 Let's connect!
+Feel free to reach out if you're interested in discussing web technologies, collaborations, or just sharing ideas. I'm always open to new opportunities and challenges!
 
 <!--
 gjoliveira963/gjoliveira963 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
