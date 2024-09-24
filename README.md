@@ -9,16 +9,20 @@ where I'm always seeking to improve my skills and knowledge in the area 💻.
 A rising professional in the area of ​​Web Development, currently enriching my skills at ECOINF - Web Development and Digital Certification in Brasília, DF. With a solid technical background and a degree in Computer Science from Estácio Brasília University Center, I have dedicated myself to my career, innovation and technical excellence in the area of ​​information technology.
 
 ## 🎓 Education
-- **Bachelor's Degree in Computer Science** (2019 - 2024)
-- Estácio de Sá University
 
-- **Technical/Professional Course in Computer Science** (2019 - 2022)
-- Technological Axis: Information and Communication
-- Technical School of Brasília (ETB), Brazil
+- **Bachelor of Computer Science** (2019 - 2024)  
+  [Estácio de Sá University](https://estacio.br)  
+  Comprehensive education in software development, algorithms, data structures, and computer systems. Focus on applying theoretical knowledge to real-world challenges in web development and technology.
 
-- **JavaScript and TypeScript Course: From Basic to Advanced JS/TS** (2020 - 2021)
-- Duration: 146 hours
-- Udemy (UDMY), Brazil
+- **Technical/Professional Course in Computer Science** (2019 - 2022)  
+  **Technological Axis: Information and Communication**  
+  [Technical School of Brasília (ETB)](https://etb.df.gov.br), Brazil  
+  Gained foundational knowledge and hands-on experience in information technology, including system administration, networking, and basic programming.
+
+- **JavaScript and TypeScript: From Basics to Advanced** (2020 - 2021)  
+  [Udemy](https://www.udemy.com/course/javascript-typescript-do-basico-ao-avancado/)  
+  A 146-hour intensive course focused on mastering JavaScript and TypeScript for both front-end and back-end development. Emphasis on modern frameworks and best practices.
+
 
 ## 🛠️ Technical Skills
 - **Programming Languages:** HTML, CSS, JavaScript
