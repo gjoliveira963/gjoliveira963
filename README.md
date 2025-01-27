@@ -44,7 +44,7 @@ A rising professional in the area of ​​Web Development, currently enriching 
 -->
 
 - **Email:** <gjoliveira@gjoliveira.dev>
-- **LinkedIn** <https://www.linkedin.com/in/gjoliveira963/>
+- **LinkedIn:** <https://www.linkedin.com/in/gjoliveira963/>
 
 ## 🌟 Let's connect
 
