@@ -33,7 +33,7 @@ A rising professional in the area of ​​Web Development, currently enriching 
 
 ## 🌱 I'm Learning
 
-- Deepening my knowledge in **Next Js** and **Nest Js**
+- Deepening my knowledge in **Nuxt Js** and **Nest Js**
 - Exploring **Artificial Intelligence** for web applications
 
 ## 📫 How to contact me
@@ -43,6 +43,7 @@ A rising professional in the area of ​​Web Development, currently enriching 
 - **LinkedIn:** [Your LinkedIn Name](https://www.linkedin.com/in/yourLinkedInProfile/)
 -->
 
+- **Site** <https://gjoliveira.dev/> Em breve! 
 - **Email:** <gjoliveira@gjoliveira.dev>
 - **LinkedIn:** <https://www.linkedin.com/in/gjoliveira963/>
 
