@@ -38,20 +38,12 @@ A rising professional in the area of ​​Web Development, currently enriching 
 
 ## 📫 How to contact me
 
-<!--
-**GitHub:** [@yourGitHubUsername](https://github.com/yourGitHubUsername)
-- **LinkedIn:** [Your LinkedIn Name](https://www.linkedin.com/in/yourLinkedInProfile/)
--->
-
-- **Site** <https://gjoliveira.dev/> Em breve! 
+- **Site** <https://gjoliveira.dev/> Em breve o site estará pronto! 
 - **Email:** <gjoliveira@gjoliveira.dev>
+- **Medium** <https://medium.com/@gjoliveira.dev/>
 - **LinkedIn:** <https://www.linkedin.com/in/gjoliveira963/>
+- Em breve mais links!
 
 ## 🌟 Let's connect
 
 Feel free to reach out if you're interested in discussing web technologies, collaborations, or just sharing ideas. I'm always open to new opportunities and challenges!
-
-<!--
-gjoliveira963/gjoliveira963 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
