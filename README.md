@@ -38,11 +38,11 @@ A rising professional in the area of ​​Web Development, currently enriching 
 
 ## 📫 How to contact me
 
-- **Site** <https://gjoliveira.dev/> Em breve o site estará pronto! 
+- **Site** <https://gjoliveira.dev/> The website will be ready soon!
 - **Email:** <gjoliveira@gjoliveira.dev>
 - **Medium** <https://medium.com/@gjoliveira.dev/>
 - **LinkedIn:** <https://www.linkedin.com/in/gjoliveira963/>
-- Em breve mais links!
+- More links coming soon!
 
 ## 🌟 Let's connect
 
