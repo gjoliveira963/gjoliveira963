@@ -1,4 +1,4 @@
-![Logo Wallpaper: G. J. Oliveira Web Development](https://www.gjoliveira.dev/capa.png)
+![Logo Wallpaper: G. J. Oliveira Web Development](https://www.gjoliveira.dev/fundo-svg-fino-com-logo.png)
 
 # 👋 Hello! I’m Gabriel José Oliveira
 
