@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://www.gjoliveira.dev/fundo-svg-fino-com-logo.png" alt="Logo Wallpaper: G. J. Oliveira Web Development" style="border-radius: 0.375rem;" />
+<div align="center" style="border-radius: 0.375rem;">
+  <img src="https://www.gjoliveira.dev/fundo-svg-fino-com-logo.png" alt="Logo Wallpaper: G. J. Oliveira Web Development" />
 </div>
 
 # 👋 Hello! I’m Gabriel José Oliveira
